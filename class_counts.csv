@@ -1,0 +1,30 @@
+id,name,count
+0,Men at Work,5
+1,No Stopping,8
+2,Stop,9
+3,annonce feux tricolores,4
+4,chaussee glissante,14
+5,chaussee retrecie,11
+6,debouche de cyclistes,12
+7,debouche sur un quai,22
+8,descente dangereuse,9
+9,endroit frequente par les enfants,16
+10,hopital,17
+11,limitation de vitesse 10,8
+12,limitation de vitesse 100,8
+13,limitation de vitesse 110,13
+14,limitation de vitesse 20,11
+15,limitation de vitesse 30,9
+16,limitation de vitesse 50,4
+17,limitation de vitesse 70,15
+18,limitation de vitesse 90,10
+19,passage d animaux,20
+20,passage pour pietons,27
+21,premier virage a droite,10
+22,premier virage a gauche,9
+23,presignalisation d une impasse,13
+24,risque de chut de pierres,14
+25,rue sans issue,7
+26,stationnement interdit,5
+27,virage a droite,4
+28,virage a gauche,6

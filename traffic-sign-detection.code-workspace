@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "traffic-sign-detection",
+			"path": "."
+		},
+		{
+			"name": "datasets_yolo",
+			"path": "../datasets_yolo"
+		},
+		{
+			"name": "test_signs_yolov8",
+			"path": "../test_signs_yolov8"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,9 @@
+cd /home/pi/traffic-sign-detectionon
+source .venv/bin/activate
+
+export ADAS_CAM_DEVICE="http://10.17.140.241:5001/video"
+export ADAS_USE_PICAMERA="0"
+export ADAS_DISPLAY="1"
+export ADAS_ANALYZE_INPUT="0"
+
+python main.py

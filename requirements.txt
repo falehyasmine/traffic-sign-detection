@@ -1,0 +1,7 @@
+watchdog
+opencv-python
+flask
+ultralytics
+numpy
+ pyttsx3
+ RPi.GPIO
